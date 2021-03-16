@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:27:54 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:28:20 -0300] "GET /meetapp/PrimeiraPagina.xhtml HTTP/1.1" 200 775
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:28:32 -0300] "POST /meetapp/PrimeiraPagina.xhtml;jsessionid=6426D49232B5BFF133E1642B97460197 HTTP/1.1" 200 740
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:29:56 -0300] "POST /meetapp/PrimeiraPagina.xhtml;jsessionid=6426D49232B5BFF133E1642B97460197 HTTP/1.1" 200 794
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:31:22 -0300] "POST /meetapp/PrimeiraPagina.xhtml;jsessionid=6426D49232B5BFF133E1642B97460197 HTTP/1.1" 200 845
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:31:44 -0300] "POST /meetapp/PrimeiraPagina.xhtml;jsessionid=6426D49232B5BFF133E1642B97460197 HTTP/1.1" 200 885
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:32:34 -0300] "POST /meetapp/PrimeiraPagina.xhtml;jsessionid=6426D49232B5BFF133E1642B97460197 HTTP/1.1" 200 913
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:35:07 -0300] "POST /meetapp/PrimeiraPagina.xhtml;jsessionid=6426D49232B5BFF133E1642B97460197 HTTP/1.1" 200 1277
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:35:46 -0300] "POST /meetapp/PrimeiraPagina.xhtml;jsessionid=6426D49232B5BFF133E1642B97460197 HTTP/1.1" 200 1289
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:46:01 -0300] "POST /meetapp/PrimeiraPagina.xhtml;jsessionid=6426D49232B5BFF133E1642B97460197 HTTP/1.1" 200 1464
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:46:36 -0300] "POST /meetapp/PrimeiraPagina.xhtml;jsessionid=6426D49232B5BFF133E1642B97460197 HTTP/1.1" 200 1464
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:19:47:50 -0300] "POST /meetapp/PrimeiraPagina.xhtml;jsessionid=6426D49232B5BFF133E1642B97460197 HTTP/1.1" 200 1817
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:20:33:36 -0300] "GET /meetapp/CadastrarEvento.xhtml HTTP/1.1" 200 1347
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:20:33:37 -0300] "GET /meetapp/javax.faces.resource/theme.css.xhtml?ln=primefaces-aristo HTTP/1.1" 200 25104
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:20:34:20 -0300] "GET /meetapp/CadastrarEvento.xhtml HTTP/1.1" 200 1373
